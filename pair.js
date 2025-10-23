@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
                     await client.sendMessage(client.user.id, {text: `
 ╔════════════════════
 ║ ◇ SESSION CONNECTED ◇
-║ 🔹 BOT: JUNE-MD
+║ 🔹 BOT: VAMPARINA 
 ║ 🔹 TYPE: BASE64
 ║ 🔹 OWNER: Supreme
 ╚════════════════════` }, { quoted: session });
